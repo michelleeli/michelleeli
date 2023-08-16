@@ -1,4 +1,4 @@
-### Hello! I'm Michelle Li
+## Hello! I'm Michelle Li
 
 <img align="left" src="https://github.com/michelleeli/michelleeli/assets/130802181/1a3999d3-5fbc-4ff2-875d-3975d2433863" width="250" height="250"/>
 
